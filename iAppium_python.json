@@ -3,7 +3,7 @@
         "platformName": "Android",
         "deviceName": "<your device name>",
         "udid": "<your device udid>",
-        "noReset": "false",
+        "noReset": "True",
         "automationName": "UiAutomator2",
         "appPackage": "com.example.android.contactmanager",
         "appActivity": ".ContactManager"
